@@ -79,6 +79,9 @@ jobs:
 * [Vercel](https://vercel.com/)
   * create versel of your fork
     * set root directory to `server/` 
+    * set following environment variables. Copy values from [User App Details](https://github.com/settings/apps/) or from [Organizations App Details](https://github.com/organizations/YOUR_ORGANIZATION/settings/apps)
+      * `GITHUB_APP_ID`
+      * `GITHUB_APP_PRIVATE_KEY `
 * change default `endpoint` in github action [action.yaml](action.yaml) to your vercel app url.
 
 ## Development
