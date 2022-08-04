@@ -73,7 +73,8 @@ jobs:
 * Choose an account to install your app to
 
 ### Run GitHub Actions Access Manager Server
-* Vercel
+* Vercel TODO
+  * see [server](server/) code
   * TODO
 * Docker Container
   * TODO
