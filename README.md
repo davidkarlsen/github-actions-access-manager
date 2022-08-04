@@ -1,4 +1,6 @@
-# GitHub Actions Access Manager
+
+# ![](https://img.icons8.com/cotton/64/000000/grand-master-key.png)&nbsp; GitHub Actions Access Manager
+
 
 ## Usage
 ### Install Access Manager App to Your Target Repositories
