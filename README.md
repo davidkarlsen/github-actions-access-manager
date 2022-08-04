@@ -82,7 +82,7 @@ jobs:
   * TODO
 
 ## Development
-#### Run Local
+#### Run Server Locally
 * Start Server
   ```shell
   cd server/
