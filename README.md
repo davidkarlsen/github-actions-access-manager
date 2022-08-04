@@ -75,13 +75,11 @@ jobs:
 * Choose an account to install your app to
 
 ### Run GitHub Actions Access Manager Server
-* Vercel TODO
-  * see [server](server/) code
-  * TODO
-* Docker Container
-  * TODO
-* AWS Lambda
-  * TODO
+* fork this repository
+* [Vercel](https://vercel.com/)
+  * create versel of your fork
+    * set root directory to `server/` 
+* change default `endpoint` in github action [action.yaml](action.yaml) to your vercel app url.
 
 ## Development
 #### Run Server Locally
